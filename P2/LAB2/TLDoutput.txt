@@ -1,0 +1,32 @@
+TLD_edu received query from NR : www.bank.com
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12057
+
+
+TLD_edu received query from NR : smtp.mynah.edu
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12060
+
+
+TLD_edu received query from NR : ftp.brown.com
+TLD_edu responds to NR : IP address = DNE, port = 0
+
+
+TLD_edu received query from NR : ftp.brown.edu
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12061
+
+
+TLD_edu received query from NR : smtp.cougar.edu
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12062
+
+
+TLD_edu received query from NR : sshd1.shop.com
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12058
+
+
+TLD_edu received query from NR : vpnno.store.com
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12059
+
+
+TLD_edu received query from NR : vpn.store.com
+TLD_edu responds to NR : IP address = 127.0.0.1, port = 12059
+
+

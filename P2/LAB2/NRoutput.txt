@@ -1,0 +1,75 @@
+NR input from client : www.bank.com
+NR query to RDS : www.bank.com
+RDS response : IP address = 127.0.0.1, Port = 12055
+NR query to TLD_com : www.bank.com
+TLD_com server response : IP address = 127.0.0.1, Port = 12057
+NR query to ADS1 : www.bank.com
+ADS1 server response : IP address = 202.15.5.1
+
+
+NR input from client : smtp.mynah.edu
+NR query to RDS : smtp.mynah.edu
+RDS response : IP address = 127.0.0.1, Port = 12056
+NR query to TLD_edu : smtp.mynah.edu
+TLD_edu server response : IP address = 127.0.0.1, Port = 12060
+NR query to ADS4 : smtp.mynah.edu
+ADS4 server response : IP address = 198.167.5.2
+
+
+NR input from client : ftp.brown.com
+NR query to RDS : ftp.brown.com
+RDS response : IP address = 127.0.0.1, Port = 12055
+NR query to TLD_com : ftp.brown.com
+TLD_com server response : IP address = DNE, Port = 0
+
+
+NR input from client : ftp.brown.edu
+NR query to RDS : ftp.brown.edu
+RDS response : IP address = 127.0.0.1, Port = 12056
+NR query to TLD_edu : ftp.brown.edu
+TLD_edu server response : IP address = 127.0.0.1, Port = 12061
+NR query to ADS5 : ftp.brown.edu
+ADS5 server response : IP address = 192.13.5.3
+
+
+NR input from client : abc.abc.abc
+NR query to RDS : abc.abc.abc
+RDS response : IP address = DNE, Port = 0
+
+
+NR input from client : smtp.cougar.edu
+NR query to RDS : smtp.cougar.edu
+RDS response : IP address = 127.0.0.1, Port = 12056
+NR query to TLD_edu : smtp.cougar.edu
+TLD_edu server response : IP address = 127.0.0.1, Port = 12062
+NR query to ADS6 : smtp.cougar.edu
+ADS6 server response : IP address = 212.18.25.2
+
+
+NR input from client : sshd1.shop.com
+NR query to RDS : sshd1.shop.com
+RDS response : IP address = 127.0.0.1, Port = 12055
+NR query to TLD_com : sshd1.shop.com
+TLD_com server response : IP address = 127.0.0.1, Port = 12058
+NR query to ADS2 : sshd1.shop.com
+ADS2 server response : IP address = 133.54.5.4
+
+
+NR input from client : vpnno.store.com
+NR query to RDS : vpnno.store.com
+RDS response : IP address = 127.0.0.1, Port = 12055
+NR query to TLD_com : vpnno.store.com
+TLD_com server response : IP address = 127.0.0.1, Port = 12059
+NR query to ADS3 : vpnno.store.com
+ADS3 server response : IP address = DNE
+
+
+NR input from client : vpn.store.com
+NR query to RDS : vpn.store.com
+RDS response : IP address = 127.0.0.1, Port = 12055
+NR query to TLD_com : vpn.store.com
+TLD_com server response : IP address = 127.0.0.1, Port = 12059
+NR query to ADS3 : vpn.store.com
+ADS3 server response : IP address = 143.11.5.25
+
+

@@ -1,0 +1,36 @@
+Root DNS received query from NR : www.bank.com
+RDS responds to NR : IP address = 127.0.0.1, port = 12055
+
+
+Root DNS received query from NR : smtp.mynah.edu
+RDS responds to NR : IP address = 127.0.0.1, port = 12056
+
+
+Root DNS received query from NR : ftp.brown.com
+RDS responds to NR : IP address = 127.0.0.1, port = 12055
+
+
+Root DNS received query from NR : ftp.brown.edu
+RDS responds to NR : IP address = 127.0.0.1, port = 12056
+
+
+Root DNS received query from NR : abc.abc.abc
+RDS responds to NR : IP address = DNE, port = 0
+
+
+Root DNS received query from NR : smtp.cougar.edu
+RDS responds to NR : IP address = 127.0.0.1, port = 12056
+
+
+Root DNS received query from NR : sshd1.shop.com
+RDS responds to NR : IP address = 127.0.0.1, port = 12055
+
+
+Root DNS received query from NR : vpnno.store.com
+RDS responds to NR : IP address = 127.0.0.1, port = 12055
+
+
+Root DNS received query from NR : vpn.store.com
+RDS responds to NR : IP address = 127.0.0.1, port = 12055
+
+

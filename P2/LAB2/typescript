@@ -1,0 +1,40 @@
+Script started on 2023-03-03 11:10:23+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="138" LINES="35"]
+]0;smit@smit-asustufgaminga17fa706ihfa706ih:~/Desktop/LAB2[?2004h[smit@smit-asustufgaminga17fa706ihfa706ih LAB2]$ make all
+[?2004lg++ CS20B011.cpp -o dns
+]0;smit@smit-asustufgaminga17fa706ihfa706ih:~/Desktop/LAB2[?2004h[smit@smit-asustufgaminga17fa706ihfa706ih LAB2]$ ./dns 12000 input.txt
+[?2004lEnter server name : www.bank.com
+DNS Mapping of www.bank.com : 202.15.5.1
+
+Enter server name : smtp.mynah.edu
+DNS Mapping of smtp.mynah.edu : 198.167.5.2
+
+Enter server name : ww  ftp.brown.com
+No DNS record found
+
+Enter server name : ftp.brown.edu
+DNS Mapping of ftp.brown.edu : 192.13.5.3
+
+Enter server name : abc.abc.abc
+No DNS record found
+
+Enter server name : ssh   smtp.cougar.edu
+DNS Mapping of smtp.cougar.edu : 212.18.25.2
+
+Enter server name : sshd1.shop.com
+DNS Mapping of sshd1.shop.com : 133.54.5.4
+
+Enter server name : vpn.vpn
+Invalid input format
+
+Enter server name : vp. n.store.com          no.store,com    .com
+No DNS record found
+
+Enter server name : vpn.store.com
+DNS Mapping of vpn.store.com : 143.11.5.25
+
+Enter server name : bye
+All Server Processes are killed. Exiting.
+]0;smit@smit-asustufgaminga17fa706ihfa706ih:~/Desktop/LAB2[?2004h[smit@smit-asustufgaminga17fa706ihfa706ih LAB2]$ [?2004l
+exit
+
+Script done on 2023-03-03 11:12:56+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,28 @@
+ADS1 receives query from NR : www.bank.com
+ADS1 responds to NR : IP address = 202.15.5.1
+
+
+ADS4 receives query from NR : smtp.mynah.edu
+ADS4 responds to NR : IP address = 198.167.5.2
+
+
+ADS5 receives query from NR : ftp.brown.edu
+ADS5 responds to NR : IP address = 192.13.5.3
+
+
+ADS6 receives query from NR : smtp.cougar.edu
+ADS6 responds to NR : IP address = 212.18.25.2
+
+
+ADS2 receives query from NR : sshd1.shop.com
+ADS2 responds to NR : IP address = 133.54.5.4
+
+
+ADS3 receives query from NR : vpnno.store.com
+ADS3 responds to NR : IP address = DNE
+
+
+ADS3 receives query from NR : vpn.store.com
+ADS3 responds to NR : IP address = 143.11.5.25
+
+

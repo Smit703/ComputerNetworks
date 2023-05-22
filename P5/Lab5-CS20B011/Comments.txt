@@ -1,0 +1,2 @@
+The coding part of the assignment was great, but testing was very painful as we had to run 8 terminals simultaneously and run the code on each terminal.
+I would have suggested the assignment to fork and create processes for each router instead of running them differently as testing and running the code would have been easier.
